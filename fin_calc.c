@@ -18,7 +18,7 @@ printf("----------------------------------------------------------------\n");
 printf("Please select a choice: \n");
 printf("\n\n");
 printf("1. Choose this option if you wish to add GST to your base amount\n");
-printf("2. Choose this option if you wish to know the GST added to your base amount\n");
+printf("2. Choose this option if you wish to know the GST added to your final amount\n");
 printf("\n");
 printf("---------------------------------------------------------------\n");
 printf("Enter the choice :  ");
